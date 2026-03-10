@@ -13,13 +13,13 @@ Welcome to my slice of GitHub. This is where I work on open-source and occasiona
 - 🔭 **Current obsessions:** Tinkering with AI agents (LangChain/LangGraph) and data engineering pipelines. On the gaming side, I'm deep in the **Hytale** ecosystem - reverse-engineering and playing around with modding ideas.
 - 🚵 **Instead of sleeping:** You'll probably find me messing around with custom keyboard hardware and firmware, praying that updating my distro doesn't brick my setup, or participating in "extreme sports" (which consists of surviving city traffic on a bike - that's quite extreme for me).
 - 🏆 **Obligatory flex:** I somehow convinced **Forbes 30 Under 30** that I know what I'm doing in the EdTech space, so they included me in their class of 2020.
-- 👯 **Let's build:** I'm actively looking to collaborate on the first wave of open-source Hytale experiences and tooling! Really hyped for that game.
+- 👯 **Let's build:** I'm actively looking to collaborate on the first wave of Hytale experiences and tooling! Really hyped for that game.
 
 #### ⚡ Cool work stuff I tackled over the years:
-- Led an freelance engineering squad to architect and ship multiple high-traffic platforms that scaled to over $1MM+ in first-year revenue.
+- Led a freelance engineering squad to architect and ship multiple high-traffic platforms that scaled to over $1MM+ in first-year revenue.
 - Built a code-first, modular lesson engine powered by AI voiceovers (because traditional video lectures are outdated).
 - Engineered AI-driven authoring tools that basically put educational course creation on the next level.
-- Ran intensive JavaScript/TypeScript bootcamps, mentoring junior devs and helping them level up their engineering chops.
+- Ran intensive TypeScript/React bootcamps, mentoring junior devs and helping them level up their engineering skills.
 
 #### 🛠️ Some of the technologies I pretend to know:
 
