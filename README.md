@@ -12,7 +12,7 @@ Welcome to my slice of GitHub. This is where I work on open-source and occasiona
 - 🚀 **Background:** I'm a full-stack engineer who loves living at the intersection of code, infrastructure, and UX. I've spent the last 10+ years shipping platforms from 0 to 1, scaling architecture, and obsessing over the Developer Experience (DX). 
 - 🔭 **Current obsessions:** Tinkering with AI agents (LangChain/LangGraph) and data engineering pipelines. On the gaming side, I'm deep in the **Hytale** ecosystem - reverse-engineering and playing around with modding ideas.
 - 🚵 **Instead of sleeping:** You'll probably find me messing around with custom keyboard hardware and firmware, praying that updating my distro doesn't brick my setup, or participating in "extreme sports" (which consists of surviving city traffic on a bike - that's quite extreme for me).
-- 🏆 **Obligatory flex:** I somehow convinced **Forbes 30 Under 30** that I know what I'm doing in the EdTech space, so they included me in their class of 2020.
+- 🏆 **Obligatory flex:** I somehow convinced **Forbes 30 Under 30** that I know what I'm doing in the EdTech space, so they included me in their 2018 list.
 - 👯 **Let's build:** I'm actively looking to collaborate on the first wave of Hytale experiences and tooling! Really hyped for that game.
 
 #### ⚡ Cool work stuff I tackled over the years:
