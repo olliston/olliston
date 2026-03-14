@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Steve
 
 [![Email](https://img.shields.io/badge/Email-contact%40olliston.dev-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@olliston.dev)
-![Discord](https://img.shields.io/badge/Discord-olliston-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-olliston-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/224532002643116033)
 
 Welcome to my slice of GitHub. This is where I work on open-source and occasionally break stuff. 
 
