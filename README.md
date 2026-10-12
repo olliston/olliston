@@ -10,21 +10,8 @@ Welcome to my slice of GitHub. This is where I work on open-source and occasiona
 #### 👨‍💻 The TL;DR
 
 - 🚀 **Background:** I'm a full-stack engineer who loves living at the intersection of code, infrastructure, and UX. I've spent the last 10+ years shipping platforms from 0 to 1, scaling architecture, and obsessing over the Developer Experience (DX). 
-- 🚵 **Instead of sleeping:** You'll probably find me messing around with custom keyboard hardware and firmware, praying that updating my distro doesn't brick my setup, or participating in "extreme sports" (which consists of surviving city traffic on a bike - that's quite extreme for me).
-- 🏆 **Obligatory flex:** I somehow convinced **Forbes 30 Under 30** that I know what I'm doing in the EdTech space, so they included me in their 2018 list.
+- 🚵 **Instead of sleeping:** You'll probably find me messing around with custom keyboard hardware and firmware, praying that updating my distro doesn't brick my setup, or participating in "extreme sports" (which consists of surviving city traffic on a bike).
 - 🔭 **Current obsessions:** I'm deep in the **Hytale** ecosystem - exploring world gen v2 and playing around with modding ideas.
-- 👯 **Let's build:** I'm actively looking to collaborate on the first wave of Hytale experiences and tooling! Really hyped for that game.
-
-#### ⚡ Cool work stuff I tackled these the years:
-- Led a freelance engineering squad to architect and ship multiple high-traffic platforms that scaled to over $1MM+ in first-year revenue.
-- Ran intensive TypeScript/React bootcamps, mentoring junior devs and helping them level up their engineering skills.
-
-#### 🛠️ Some of the technologies I pretend to know:
-
-- **Core:** React, Next.js, Tailwind CSS, Spring, Hibernate
-- **Infra & DB:** AWS, GCP, PostgreSQL, MySQL, CI/CD pipelines
-- **Data Engineering:** Python (Pandas, NumPy), PySpark, Databricks
-- **Product & Design:** Figma, Amplitude, Clarity, A/B Testing
 
 ---
 💬 *Always open to talking about software, infrastructure, game modding, or obscure computer trivia. Feel free to ping me over at Discord!*
